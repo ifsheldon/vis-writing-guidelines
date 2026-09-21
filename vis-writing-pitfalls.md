@@ -4,6 +4,7 @@ Clear wording is necessary, but a readable paper also needs a clear sequence of 
 A passage can contain accurate statements and still leave readers unsure why a concept matters, how a step works, or why the next paragraph follows.
 
 Use this guide alongside [VIS Writing Style](vis-writing-style.md) and [VIS Writing Guide](vis-writing-guideline.md).
+For preserving an existing manuscript's argument while polishing it, see [VIS Editing Pitfalls](vis-editing-pitfalls.md).
 The nine main pitfalls below focus on explanatory logic and revision practice.
 The examples illustrate writing decisions; claims about a particular system must still be checked against its sources.
 
